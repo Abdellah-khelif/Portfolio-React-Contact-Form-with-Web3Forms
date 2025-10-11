@@ -4,7 +4,7 @@ This project is a React + Vite portfolio website that includes a working contact
 .
 It allows users to send messages directly to your email — no backend required!
 
-##🚀 Tech Stack:
+## 🚀 Tech Stack:
   ⚛️ React 19
   ⚡ Vite 7
   🎨 CSS 
@@ -12,6 +12,7 @@ It allows users to send messages directly to your email — no backend required!
 
 
 ## 📁 Project Structure:
+
 portfolio-react/
 │
 ├── public/
@@ -34,7 +35,7 @@ portfolio-react/
 ├── vite.config.js
 └── README.md
 
-##⚙️ Setup & Run
+## ⚙️ Setup & Run
   1️⃣ Install dependencies
        npm install
   2️⃣ Start development server
@@ -44,8 +45,8 @@ portfolio-react/
   4️⃣ Preview production build
        npm run preview
 
-##📬 Contact Form Integration
-###📄 Contact.jsx
+## 📬 Contact Form Integration
+### 📄 Contact.jsx
 
 Here’s the logic for handling form submissions using Web3Forms:
 const onSubmit = async (event) => {
